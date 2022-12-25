@@ -1,4 +1,4 @@
-# Search-Recommender
+# Business-Search-System
 
 1. Used JavaScript/Node.js on the server side with Express framework.
 2. Used Angular, TypeScript, and Bootstrap on the client side and created a responsive front-end.
